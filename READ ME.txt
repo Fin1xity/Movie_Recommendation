@@ -1,0 +1,9 @@
+A simple movie reccomendation program in python with the use of Cosine Similarity Algorithm.
+
+Packages to be installed before running the code:
+
+pip install sklearn-text-extensions
+pip install numpy
+pip install pandas
+
+
